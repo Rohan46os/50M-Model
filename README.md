@@ -1,2 +1,2 @@
 # 50M-Model
-A 50M parameter  model with Rope, local attention.
+A 50M parameter  Model with Rope, Casual Attention
